@@ -8,7 +8,7 @@
 ---
 
 <h3 align="center"> 
-	Reconhecimento de Objetos em Imagens e Vídeos utilizando YOLO, DarkNet e OpenCV
+	Projeto de Reconhecimento Facial em tempo real utilizando OpenCV
 </h3>
 
 <h3 align="center"> 
